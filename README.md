@@ -40,5 +40,8 @@ Example Output
 File: src/utils/date.ts
 ============================================================
 export function toISO(d: Date): string { ... }
+
+```
+
 License
 MIT © Ori Brook - GPT ;)
